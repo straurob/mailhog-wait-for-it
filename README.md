@@ -1,0 +1,1 @@
+# mailhog-wait-for-it
