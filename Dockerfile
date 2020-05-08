@@ -1,5 +1,7 @@
 FROM mailhog/mailhog:v1.0.0
 
+LABEL maintainer="straurob@users.noreply.github.com"
+
 USER root
 
 WORKDIR /usr/bin
